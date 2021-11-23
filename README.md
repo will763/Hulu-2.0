@@ -1,34 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hulu 2.0
 
-## Getting Started
+## A clone of hulu, which is an American entertainment company that provides video-on-demand services
 
-First, run the development server:
+### site link on vercel [hulu_2.0](https://hulu-2-0-omega.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+# Technologies
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Next js
+## Tailwind css
+## Tmdb api access
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+# Features 
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Responsiveness
+## Get a list of movies from a certain genre
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+# what I've learned
 
-## Learn More
+## Some tailwind features for responsiveness
+## React flip Move to smooth swapping lists by genre
+## react forwardRef
 
-To learn more about Next.js, take a look at the following resources:
+# Acknowledgment
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## [sonnysangha](https://github.com/sonnysangha)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Showed in step-by-step details how to start the project until deploying
